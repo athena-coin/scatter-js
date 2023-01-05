@@ -4,6 +4,6 @@
 	"main": "dist/index.js",
 	"license": "MIT",
 	"dependencies": {
-		"web3-provider-engine": "^14.1.0"
+		"web3-provider-engine": "^16.0.5"
 	}
 }
